@@ -1,53 +1,66 @@
-FROM python:3.8-slim
+FROM python:3.13-alpine AS builder
 
-ARG APP_WORKDIR=/tv
+ARG NGINX_VER=1.27.4
+ARG RTMP_VER=1.2.2
+
+WORKDIR /app
+
+COPY Pipfile* ./
+
+RUN apk update && apk add --no-cache gcc musl-dev python3-dev libffi-dev zlib-dev jpeg-dev wget make pcre-dev openssl-dev \
+  && pip install pipenv \
+  && PIPENV_VENV_IN_PROJECT=1 pipenv install --deploy
+
+RUN wget https://nginx.org/download/nginx-${NGINX_VER}.tar.gz && \
+    tar xzf nginx-${NGINX_VER}.tar.gz
+
+RUN wget https://github.com/arut/nginx-rtmp-module/archive/v${RTMP_VER}.tar.gz && \
+    tar xzf v${RTMP_VER}.tar.gz
+
+WORKDIR /app/nginx-${NGINX_VER}
+RUN ./configure \
+    --add-module=/app/nginx-rtmp-module-${RTMP_VER} \
+    --conf-path=/etc/nginx/nginx.conf \
+    --error-log-path=/var/log/nginx/error.log \
+    --http-log-path=/var/log/nginx/access.log \
+    --with-http_ssl_module && \
+    make && \
+    make install
+
+FROM python:3.13-alpine
+
+ARG APP_WORKDIR=/iptv-api
 
 ENV APP_WORKDIR=$APP_WORKDIR
-
-COPY . $APP_WORKDIR
+ENV APP_HOST="http://localhost"
+ENV APP_PORT=8000
+ENV PATH="/.venv/bin:/usr/local/nginx/sbin:$PATH"
 
 WORKDIR $APP_WORKDIR
 
-RUN pip install -i https://mirrors.aliyun.com/pypi/simple pipenv
+COPY . $APP_WORKDIR
 
-RUN pipenv install
+COPY --from=builder /app/.venv /.venv
+COPY --from=builder /usr/local/nginx /usr/local/nginx
 
-RUN echo "deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm main contrib non-free non-free-firmware\n \
-  deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm main contrib non-free non-free-firmware\n \
-  deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-updates main contrib non-free non-free-firmware\n \
-  deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-updates main contrib non-free non-free-firmware\n \
-  deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-updates main contrib non-free non-free-firmware\n \
-  deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-backports main contrib non-free non-free-firmware\n \
-  deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-backports main contrib non-free non-free-firmware\n \
-  deb https://mirrors.tuna.tsinghua.edu.cn/debian-security/ bookworm-security main contrib non-free non-free-firmware\n \
-  deb-src https://mirrors.tuna.tsinghua.edu.cn/debian-security/ bookworm-security main contrib non-free non-free-firmware\n" \
-  > /etc/apt/sources.list
+RUN mkdir -p /var/log/nginx && \
+  ln -sf /dev/stdout /var/log/nginx/access.log && \
+  ln -sf /dev/stderr /var/log/nginx/error.log
 
-RUN apt-get update && apt-get install -y --no-install-recommends \
-  cron \
-  xz-utils \
-  ffmpeg
+RUN apk update && apk add --no-cache ffmpeg pcre
 
-ARG INSTALL_CHROMIUM=false
+EXPOSE $APP_PORT 8080 1935
 
-RUN if [ "$INSTALL_CHROMIUM" = "true" ]; then \
-  apt-get install -y --no-install-recommends \
-  chromium \
-  chromium-driver; \
-  fi
+COPY entrypoint.sh /iptv-api-entrypoint.sh
 
-RUN  apt-get clean && rm -rf /var/lib/apt/lists/*
+COPY config /iptv-api-config
 
-RUN (crontab -l ; \
-  echo "0 22 * * * cd $APP_WORKDIR && /usr/local/bin/pipenv run python main.py scheduled_task"; \
-  echo "0 10 * * * cd $APP_WORKDIR && /usr/local/bin/pipenv run python main.py scheduled_task") | crontab -
+COPY nginx.conf /etc/nginx/nginx.conf
 
-EXPOSE 8000
+RUN mkdir -p /usr/local/nginx/html
 
-COPY entrypoint.sh /tv_entrypoint.sh
+COPY stat.xsl /usr/local/nginx/html/stat.xsl
 
-COPY config /tv_config
+RUN chmod +x /iptv-api-entrypoint.sh
 
-RUN chmod +x /tv_entrypoint.sh
-
-ENTRYPOINT /tv_entrypoint.sh
+ENTRYPOINT /iptv-api-entrypoint.sh

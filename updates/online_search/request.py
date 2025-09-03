@@ -1,50 +1,32 @@
-from asyncio import create_task, gather
-from utils.speed import get_speed
+from concurrent.futures import ThreadPoolExecutor
+from time import time
+
+from tqdm.asyncio import tqdm_asyncio
+
+import utils.constants as constants
 from utils.channel import (
     format_channel_name,
     get_results_from_soup,
     get_results_from_soup_requests,
 )
-from utils.tools import (
-    check_url_by_patterns,
-    get_pbar_remaining,
-    get_soup,
-    format_url_with_cache,
-)
 from utils.config import config
-from updates.proxy import get_proxy, get_proxy_next
-from time import time
-from driver.setup import setup_driver
-from driver.utils import search_submit
+from utils.driver.setup import setup_driver
+from utils.driver.tools import search_submit
+from utils.requests.tools import get_soup_requests, close_session
 from utils.retry import (
     retry_func,
     find_clickable_element_with_retry,
 )
-from selenium.webdriver.common.by import By
-from tqdm.asyncio import tqdm_asyncio
-from concurrent.futures import ThreadPoolExecutor
-from requests_custom.utils import get_soup_requests, close_session
+from utils.tools import (
+    get_pbar_remaining,
+    get_soup
+)
 
-timeout = config.getint("Settings", "request_timeout", fallback=10)
-
-
-async def use_accessible_url(callback):
-    """
-    Check if the url is accessible
-    """
-    callback(f"正在获取最优的在线检索节点", 0)
-    baseUrl1 = "https://www.foodieguide.com/iptvsearch/"
-    baseUrl2 = "http://tonkiang.us/"
-    task1 = create_task(get_speed(baseUrl1, timeout=timeout))
-    task2 = create_task(get_speed(baseUrl2, timeout=timeout))
-    task_results = await gather(task1, task2)
-    callback(f"获取在线检索节点完成", 100)
-    if task_results[0] == float("inf") and task_results[1] == float("inf"):
-        return None
-    if task_results[0] < task_results[1]:
-        return baseUrl1
-    else:
-        return baseUrl2
+if config.open_driver:
+    try:
+        from selenium.webdriver.common.by import By
+    except:
+        pass
 
 
 async def get_channels_by_online_search(names, callback=None):
@@ -52,49 +34,39 @@ async def get_channels_by_online_search(names, callback=None):
     Get the channels by online search
     """
     channels = {}
-    # pageUrl = await use_accessible_url(callback)
-    pageUrl = "http://tonkiang.us/"
+    pageUrl = constants.foodie_url
     if not pageUrl:
         return channels
-    proxy = None
-    open_proxy = config.getboolean("Settings", "open_proxy", fallback=False)
-    open_driver = config.getboolean("Settings", "open_driver", fallback=True)
-    page_num = config.getint("Settings", "online_search_page_num", fallback=3)
-    if open_proxy:
-        proxy = await get_proxy(pageUrl, best=True, with_test=True)
+    open_driver = config.open_driver
+    page_num = config.online_search_page_num
     start_time = time()
 
     def process_channel_by_online_search(name):
-        nonlocal proxy, open_proxy, open_driver, page_num
         info_list = []
         driver = None
         try:
             if open_driver:
-                driver = setup_driver(proxy)
+                driver = setup_driver()
                 try:
                     retry_func(
                         lambda: driver.get(pageUrl), name=f"online search:{name}"
                     )
                 except Exception as e:
-                    if open_proxy:
-                        proxy = get_proxy_next()
                     driver.close()
                     driver.quit()
-                    driver = setup_driver(proxy)
+                    driver = setup_driver()
                     driver.get(pageUrl)
                 search_submit(driver, name)
             else:
                 page_soup = None
-                request_url = f"{pageUrl}?channel={name}"
+                request_url = f"{pageUrl}?s={name}"
                 try:
                     page_soup = retry_func(
-                        lambda: get_soup_requests(request_url, proxy=proxy),
+                        lambda: get_soup_requests(request_url),
                         name=f"online search:{name}",
                     )
                 except Exception as e:
-                    if open_proxy:
-                        proxy = get_proxy_next()
-                    page_soup = get_soup_requests(request_url, proxy=proxy)
+                    page_soup = get_soup_requests(request_url)
                 if not page_soup:
                     print(f"{name}:Request fail.")
                     return
@@ -120,9 +92,9 @@ async def get_channels_by_online_search(names, callback=None):
                                     "arguments[0].click();", page_link
                                 )
                             else:
-                                request_url = f"{pageUrl}?channel={name}&page={page}"
+                                request_url = f"{pageUrl}?s={name}&page={page}"
                                 page_soup = retry_func(
-                                    lambda: get_soup_requests(request_url, proxy=proxy),
+                                    lambda: get_soup_requests(request_url),
                                     name=f"online search:{name}, page:{page}",
                                 )
                         soup = (
@@ -152,24 +124,25 @@ async def get_channels_by_online_search(names, callback=None):
                                         driver,
                                         (
                                             By.XPATH,
-                                            f'//a[contains(@href, "={page+1}") and contains(@href, "{name}")]',
+                                            f'//a[contains(@href, "={page + 1}") and contains(@href, "{name}")]',
                                         ),
                                         retries=1,
                                     )
                                     if next_page_link:
-                                        if open_proxy:
-                                            proxy = get_proxy_next()
                                         driver.close()
                                         driver.quit()
-                                        driver = setup_driver(proxy)
+                                        driver = setup_driver()
                                         search_submit(driver, name)
                                 retries += 1
                                 continue
                             for result in results:
-                                url, date, resolution = result
-                                if url and check_url_by_patterns(url):
-                                    url = format_url_with_cache(url)
-                                    info_list.append((url, date, resolution))
+                                url = result["url"]
+                                if url:
+                                    info_list.append({
+                                        "url": url,
+                                        "date": result["date"],
+                                        "resolution": result["resolution"]
+                                    })
                             break
                         else:
                             print(
