@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-10-24 18:31:43,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
+2025-10-25 06:31:57,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
-CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8$订阅源
-CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8$订阅源
+CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8$订阅源
 CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8$订阅源
 CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8$订阅源
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -42,11 +41,14 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 💰央视付费频道,#genre#
 文化精品,http://218.8.87.96:4000/rtp/229.58.190.189:5000$订阅源
 文化精品,http://218.8.87.96:4000/rtp/229.58.190.189:5000$订阅源
+风云音乐,http://218.8.87.96:4000/rtp/229.58.190.190:5000$订阅源
 风云音乐,http://sh.lnott.top:880/dx73.m3u8$订阅源
 风云音乐,http://sh.lnott.top:880/dx73.m3u8$订阅源
-高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil$订阅源
-高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil$订阅源
-高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil$订阅源
+风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8$订阅源
+风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8$订阅源
+风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8$订阅源
+风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8$订阅源
+风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil$订阅源
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil$订阅源
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil$订阅源
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil$订阅源
@@ -151,9 +153,9 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv$订阅源
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv$订阅源
+凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$订阅源
+凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$订阅源
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv$订阅源
-凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$订阅源
-凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$订阅源
 凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191$订阅源
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源
 凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv$订阅源
@@ -176,6 +178,12 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 🎬电影频道,#genre#
 CHC动作电影,https://isus.cc/php/huya.php?id=11602077$订阅源
 CHC动作电影,https://isus.cc/php/huya.php?id=11602077$订阅源
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001$订阅源
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001$订阅源
+淘剧场,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887497.m3u8$订阅源
+淘剧场,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887497.m3u8$订阅源
+淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001$订阅源
+淘娱乐,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887499.m3u8$订阅源
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40$订阅源
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40$订阅源
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40$订阅源
@@ -197,7 +205,6 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002$订阅源
 
 🏀体育频道,#genre#
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
-CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
 五星体育,http://61.173.162.228:4022/rtp/239.45.3.210:5140$订阅源
 五星体育,http://61.173.162.228:4022/rtp/239.45.3.210:5140$订阅源
@@ -209,6 +216,9 @@ CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8$订阅源
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001$订阅源
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140$订阅源
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140$订阅源
+睛彩广场舞,http://www.douzhicloud.site:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive$订阅源
+睛彩广场舞,http://www.douzhicloud.site:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive$订阅源
+睛彩广场舞,http://lt.hxtre.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive$订阅源
 魅力足球,http://218.8.87.96/rtp/229.58.190.112:5000$黑龙江联通组播源-cache:218.8.87.96-组播源
 快乐垂钓,http://218.8.87.96/rtp/229.58.190.113:5000$黑龙江联通组播源-cache:218.8.87.96-组播源
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743$订阅源
@@ -217,7 +227,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743$订阅源
 🪁动画频道,#genre#
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8$订阅源
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8$订阅源
-卡酷动画,http://lt.hxtre.com:35455/bptv/10000100000000050000000003904597.m3u8$订阅源
 卡酷动画,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8$订阅源
 卡酷动画,http://lt.hxtre.com:35455/bptv/10000100000000050000000003904597.m3u8$订阅源
 卡酷动画,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8$订阅源
@@ -228,6 +237,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743$订阅源
 动漫秀场,http://218.8.87.96/rtp/229.58.190.97:5000$黑龙江联通组播源-cache:218.8.87.96-组播源
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
 优漫卡通,http://218.8.87.96/rtp/229.58.190.165:5000$黑龙江联通组播源-cache:218.8.87.96-组播源
+优漫卡通,http://139.129.231.228/rtp/239.21.1.50:5002$山东电信组播源-cache:139.129.231.228-组播源
 金鹰卡通,http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 金鹰卡通,http://218.8.87.96/rtp/229.58.190.98:5000$黑龙江联通组播源-cache:218.8.87.96-组播源
 金鹰卡通,http://139.129.231.228/rtp/239.21.1.48:5002$山东电信组播源-cache:139.129.231.228-组播源
@@ -237,7 +247,10 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244$订阅源
 七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966$订阅源
+七龙珠,http://www.douzhicloud.site:35455/huya/11601966$订阅源
 猫和老鼠,http://huanqiuzhibo.cn/manifest/huya.php?id=11352879$订阅源
+猫和老鼠,http://www.douzhicloud.site:35455/huya/11352879$订阅源
+蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 漫画解说,https://lunbo.freetv.top/yy/1382735568$订阅源
 
 🎮游戏频道,#genre#
@@ -247,7 +260,13 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 
 🎵音乐频道,#genre#
 CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
+风云音乐,http://218.8.87.96:4000/rtp/229.58.190.190:5000$订阅源
 风云音乐,http://sh.lnott.top:880/dx73.m3u8$订阅源
+风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8$订阅源
+风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8$订阅源
+风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil$订阅源
+风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil$订阅源
+风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil$订阅源
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
 音乐之声,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
@@ -265,3 +284,4 @@ CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playli
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8$订阅源
 水浒传,https://lunbo.freetv.top/yy/1353215589$订阅源
 射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164$订阅源
+射雕英雄传,http://www.douzhicloud.site:35455/huya/23824164$订阅源
