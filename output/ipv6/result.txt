@@ -1,13 +1,11 @@
 🕘️更新时间,#genre#
-2026-04-27 19:54:59,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-04-28 06:59:19,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8$订阅源
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8$订阅源
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695714359383425708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777628651&major_anchor_level=common&neq=1&sign=8b16cc180ce95c845219f8cccdcb9b5b&t_id=037-202604241744105DB92CAAEC4993C5B1D5-5dxGqL$订阅源
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695714359383425708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777628651&major_anchor_level=common&neq=1&sign=8b16cc180ce95c845219f8cccdcb9b5b&t_id=037-202604241744105DB92CAAEC4993C5B1D5-5dxGqL$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773619479&major_anchor_level=common&sign=bc2d4a3036fd27024f2c218c2fea7c91&t_id=037-202603090804382D2980E60B5163A589BB-tclVJX$订阅源
@@ -26,8 +24,6 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?a
 大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86$订阅源
 
 🌊港·澳·台,#genre#
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
@@ -35,14 +31,12 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?a
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$订阅源
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$订阅源
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
@@ -65,7 +59,6 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
-天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2$订阅源
 天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe$订阅源
@@ -92,10 +85,20 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 炫动卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117$订阅源
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
+七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
+七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413$订阅源
+中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
+中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879$订阅源
+猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
+猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+蜡笔小新,https://live.ottiptv.cc/bilibili/30837590$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎮游戏频道,#genre#
@@ -106,8 +109,23 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 
 🏛经典剧场,#genre#
 笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790$订阅源
+笑傲江湖,https://live.ottiptv.cc/huya/26355790$订阅源
+笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
 天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816$订阅源
+天龙八部,https://live.ottiptv.cc/huya/20985816$订阅源
+天龙八部,https://live.metshop.top/huya/23903123$订阅源
+鹿鼎记,https://live.ottiptv.cc/yy/28265277$订阅源
+仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903$订阅源
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=26355861$订阅源
+西游记,https://live.ottiptv.cc/huya/26355861$订阅源
+西游记,https://live.metshop.top/huya/26355861$订阅源
 三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081$订阅源
+三国演义,https://live.ottiptv.cc/huya/11602081$订阅源
+三国演义,https://live.metshop.top/huya/11602081$订阅源
+新白娘子传奇,https://live.ottiptv.cc/yy/1354490667$订阅源
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849$订阅源
+封神榜,https://live.ottiptv.cc/huya/29465849$订阅源
+封神榜,https://live.metshop.top/huya/29465849$订阅源
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164$订阅源
+射雕英雄传,https://live.ottiptv.cc/huya/23824164$订阅源
+射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
