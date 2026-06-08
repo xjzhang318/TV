@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-08 22:15:55,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8$订阅源
+2026-06-09 07:23:23,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -55,9 +55,14 @@ CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
 
 🪁动画频道,#genre#
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+中华小当家,https://live.metshop.top/huya/11342413$订阅源
 中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413$订阅源
+猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
@@ -68,9 +73,15 @@ CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
 笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790$订阅源
+天龙八部,https://live.metshop.top/huya/23903123$订阅源
 天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816$订阅源
+西游记,https://live.metshop.top/huya/26355861$订阅源
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=26355861$订阅源
+三国演义,https://live.metshop.top/huya/11602081$订阅源
 三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081$订阅源
+封神榜,https://live.metshop.top/huya/29465849$订阅源
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849$订阅源
+射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164$订阅源
