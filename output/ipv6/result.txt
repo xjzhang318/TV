@@ -1,7 +1,13 @@
 🕘️更新时间,#genre#
-2026-08-06 20:09:01,https://cdn.qd.je/163189/gdty$订阅源
+2026-08-07 09:37:19,https://live.chinacert.cftest5.cn/cnmg/live/673168185$订阅源
 
 📺央视频道,#genre#
+CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185$订阅源
+CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185$订阅源
+CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423$订阅源
+CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440$订阅源
+CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$订阅源
+CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$订阅源
 
 💰央视付费频道,#genre#
 
@@ -28,13 +34,11 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
-漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
+CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$订阅源
 
 🏛经典剧场,#genre#
 笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
