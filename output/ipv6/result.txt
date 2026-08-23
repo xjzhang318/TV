@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-23 06:27:04,https://cdn.qd.je/163189/gdty$订阅源
+2026-08-23 18:29:11,https://cdn.qd.je/163189/gdty$订阅源
 
 📺央视频道,#genre#
 
@@ -32,6 +32,9 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
+经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎮游戏频道,#genre#
 
