@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-04 07:55:33,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
+2026-09-04 22:06:59,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -20,12 +20,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 Viutv,http://r.jdshipin.com/vSJvl$订阅源
 Viutv,http://r.jdshipin.com/vSJvl$订阅源
-靖天资讯,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837$订阅源
-靖天资讯,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837$订阅源
 
 🎬电影频道,#genre#
-靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837$订阅源
-靖天戏剧,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837$订阅源
 无线星河,http://r.jdshipin.com/sXuuD$订阅源
 
 🎥咪咕直播,#genre#
