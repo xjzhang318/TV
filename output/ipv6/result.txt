@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-06 21:30:35,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
+2026-09-07 07:35:16,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -20,12 +20,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 Viutv,http://r.jdshipin.com/vSJvl$订阅源
 Viutv,http://r.jdshipin.com/vSJvl$订阅源
-靖天资讯,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784702901150$订阅源
-靖天资讯,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784702901150$订阅源
 
 🎬电影频道,#genre#
-靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837$订阅源
-靖天戏剧,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837$订阅源
 无线星河,http://r.jdshipin.com/sXuuD$订阅源
 
 🎥咪咕直播,#genre#
@@ -37,6 +33,10 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
 
 🪁动画频道,#genre#
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+中华小当家,https://live.metshop.top/huya/11342413$订阅源
+猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
@@ -46,3 +46,9 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
+天龙八部,https://live.metshop.top/huya/23903123$订阅源
+西游记,https://live.metshop.top/huya/26355861$订阅源
+三国演义,https://live.metshop.top/huya/11602081$订阅源
+封神榜,https://live.metshop.top/huya/29465849$订阅源
+射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
