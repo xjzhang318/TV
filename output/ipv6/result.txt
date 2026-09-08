@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-08 22:16:39,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
+2026-09-09 07:57:21,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -22,9 +22,6 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 Viutv,http://r.jdshipin.com/vSJvl$订阅源
 
 🎬电影频道,#genre#
-靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837$订阅源
-靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837$订阅源
-靖天戏剧,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837$订阅源
 无线星河,http://r.jdshipin.com/sXuuD$订阅源
 
 🎥咪咕直播,#genre#
@@ -40,6 +37,9 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
+经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎮游戏频道,#genre#
 
