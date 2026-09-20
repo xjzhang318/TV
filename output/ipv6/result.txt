@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-20 08:04:11,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
+2026-09-20 22:06:26,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -20,11 +20,15 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 Viutv,http://r.jdshipin.com/vSJvl$订阅源
 
 🎬电影频道,#genre#
+天映经典,https://cdn.qd.je/163189/ccm$订阅源
+天映经典,https://cdn.qd.je/163189/ccm$订阅源
 无线星河,http://r.jdshipin.com/sXuuD$订阅源
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
 
 🪁动画频道,#genre#
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
