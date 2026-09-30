@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-30 00:29:50,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
+2026-09-30 09:10:29,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -23,8 +23,6 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
-足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
 
 🪁动画频道,#genre#
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
