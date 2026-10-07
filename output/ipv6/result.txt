@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-07 00:38:21,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
+2026-10-07 09:22:17,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -31,6 +31,10 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
+经典动漫,http://luobo.bkpcp.top/yy/24180320$订阅源
+经典动漫,http://luobo.bkpcp.top/yy/24180320$订阅源
+经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 
 🎮游戏频道,#genre#
 
