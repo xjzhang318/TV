@@ -1,13 +1,11 @@
 🕘️更新时间,#genre#
-2026-10-19 08:04:34,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
+2026-10-20 00:57:44,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
 
 🏠广东频道,#genre#
 
@@ -31,8 +29,6 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 
 🎮游戏频道,#genre#
 
