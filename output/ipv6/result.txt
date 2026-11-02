@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-02 09:21:28,https://php.jdshipin.com/TVOD/iptv.php$订阅源
+2026-11-03 04:06:48,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 
 📺央视频道,#genre#
 CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
@@ -28,6 +28,10 @@ CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
 
 🪁动画频道,#genre#
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+中华小当家,https://live.metshop.top/huya/11342413$订阅源
+猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 
@@ -36,3 +40,9 @@ CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
+天龙八部,https://live.metshop.top/huya/23903123$订阅源
+西游记,https://live.metshop.top/huya/26355861$订阅源
+三国演义,https://live.metshop.top/huya/11602081$订阅源
+封神榜,https://live.metshop.top/huya/29465849$订阅源
+射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
