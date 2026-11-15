@@ -1,11 +1,13 @@
 🕘️更新时间,#genre#
-2026-11-15 09:40:02,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
+2026-11-16 00:56:53,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
+甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
 
 🏠广东频道,#genre#
 
