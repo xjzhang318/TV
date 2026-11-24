@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-24 13:53:20,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
+2026-11-25 04:39:49,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -35,6 +35,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+蜡笔小新,https://live.metshop.top/bilibili/30837590$订阅源
 
 🎮游戏频道,#genre#
 
@@ -43,7 +44,10 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🏛经典剧场,#genre#
 笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
+鹿鼎记,https://live.metshop.top/huya/23650774$订阅源
+仙剑奇侠传,https://live.metshop.top/yy/1382749903$订阅源
 西游记,https://live.metshop.top/huya/26355861$订阅源
 三国演义,https://live.metshop.top/huya/11602081$订阅源
+新白娘子传奇,https://live.metshop.top/yy/1354490667$订阅源
 封神榜,https://live.metshop.top/huya/29465849$订阅源
 射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
