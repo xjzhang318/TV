@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-25 12:55:57,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
+2026-11-26 03:54:36,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -19,10 +19,15 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 
 🎬电影频道,#genre#
+天映经典,https://cdn.qd.je/163189.php?id=ccm$订阅源
+天映经典,https://cdn.qd.je/163189.php?id=ccm$订阅源
+东森洋片,https://epg.pw/stream/3c88da979f696eed7a0c30ab17d5f29bfe41bcfb61d702b66af059ca81d61d18.m3u8$订阅源
+东森洋片,https://epg.pw/stream/3c88da979f696eed7a0c30ab17d5f29bfe41bcfb61d702b66af059ca81d61d18.m3u8$订阅源
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
 
 🪁动画频道,#genre#
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
