@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-25 04:39:49,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
+2026-11-25 12:55:57,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -19,14 +19,10 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 
 🎬电影频道,#genre#
-龙祥电影,https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.m3u8$订阅源
-龙祥电影,https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.m3u8$订阅源
-东森洋片,https://epg.pw/stream/3c88da979f696eed7a0c30ab17d5f29bfe41bcfb61d702b66af059ca81d61d18.m3u8$订阅源
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
 
 🪁动画频道,#genre#
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
@@ -45,9 +41,17 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
 鹿鼎记,https://live.metshop.top/huya/23650774$订阅源
+仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903$订阅源
+仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903$订阅源
 仙剑奇侠传,https://live.metshop.top/yy/1382749903$订阅源
+西游记,https://live.ottiptv.cc/huya/26355861$订阅源
 西游记,https://live.metshop.top/huya/26355861$订阅源
+三国演义,https://live.ottiptv.cc/huya/11602081$订阅源
 三国演义,https://live.metshop.top/huya/11602081$订阅源
+水浒传,https://live.ottiptv.cc/yy/1353873252$订阅源
+新白娘子传奇,https://live.ottiptv.cc/yy/1354490667$订阅源
 新白娘子传奇,https://live.metshop.top/yy/1354490667$订阅源
+封神榜,https://live.ottiptv.cc/huya/29465849$订阅源
 封神榜,https://live.metshop.top/huya/29465849$订阅源
+射雕英雄传,https://live.ottiptv.cc/huya/23824164$订阅源
 射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
